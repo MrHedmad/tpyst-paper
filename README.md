@@ -28,3 +28,14 @@ You get pretty authors with OrcIDs, acronyms, bibliography, and more.
 - To hide the draft box after the abstract, pass `work_in_progress: false` at
   the start of `main.typ`.
 
+## Font
+This template bundles and uses by default the Atkinson Hyperlegible font.
+It follows its own [license](src/resources/fonts/LICENSE), which you can read.
+It only forbids selling *the font itself*. You are free to do anything you like
+with a document that uses the font, including selling it or repackaging it.
+
+Using the Atkinson Hyperlegible font helps people with partially impaired vision
+read and enjoy your work. I also find it very pleasing on the eyes.
+You can read more about the font (and download more copies) at
+[https://brailleinstitute.org/freefont](https://brailleinstitute.org/freefont)
+
